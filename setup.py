@@ -5,9 +5,9 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.4"
+__version__ = "0.0.0"
 REPO_NAME = "demo"
-PKG_NAME= "databaseautomation"
+PKG_NAME= "Mongo_db_demo"
 AUTHOR_USER_NAME = "Anhtt9x"
 AUTHOR_EMAIL = "anhtt454598@gmail.com"
 
